@@ -1,0 +1,9 @@
+.main h1{
+  text-align: center;
+  font-weight: 700;
+}
+
+html, body, .container-fluid {
+  background-color: #111111;
+  color: #ffffff;
+}
